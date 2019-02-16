@@ -33,13 +33,13 @@ print("Selesai")
 ==>> Flowchart latihan1 :
 
 
-
+![flowlat1](https://user-images.githubusercontent.com/43899047/52897247-e6814400-3204-11e9-8db8-13f4f629af42.jpg)
 
 
 ==>> Hasil screenshoot program :
 
 
- 
+ ![screenshoot latihan 1](https://user-images.githubusercontent.com/43899047/52897244-e5501700-3204-11e9-800c-2dbd41c4ef28.jpg)
 
 
 LATIHAN 2 "Program menampilkan bilangan terbesar"
@@ -79,13 +79,13 @@ print ('Nilai terbesarya adalah :',max)
 ==>> Flowchart latihan2 :
 
 
-
+![flowlat2](https://user-images.githubusercontent.com/43899047/52897248-e719da80-3204-11e9-9d90-40feff5d8c29.jpg)
 
 
 ==>> Hasil screenshoot program :
 
 
-
+![screenshoot latihan 2](https://user-images.githubusercontent.com/43899047/52897245-e5e8ad80-3204-11e9-8ad1-78e5069161b3.jpg)
 
 
 LATIHAN 3 ( Program 1 ) "Program menghitung laba pengusaha"
@@ -127,11 +127,11 @@ print('Total laba yang didapat adalah      :', sum)
 ==>> Flowchart program 1 :
 
 
-
+![flowlat1](https://user-images.githubusercontent.com/43899047/52897247-e6814400-3204-11e9-8db8-13f4f629af42.jpg)
 
 
 
 ==>> Hasil screenshoot program 1 :
 
-
+![screenshoot program 1](https://user-images.githubusercontent.com/43899047/52897246-e5e8ad80-3204-11e9-8d22-29b82ca21390.jpg)
 
